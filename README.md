@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer, currently focusing on 
 ##### 💻 Aspiring Full Stack Developer
 ##### 🌱 Currently learning Web Development and Backend Technologies
 ##### 💡 Interested in coding, technology, and web designing
-##### Working with Machine learning libraries (such as Scikit-learn, TensorFlow, Panda etc.) and Google Colab 
+##### 🤖 Working with Machine learning libraries (such as Scikit-learn, TensorFlow, Panda etc.) and Google Colab 
 
 ## 🔧 Technologies & Tools 
 ##### Frontend: HTML, CSS, JavaScript, React

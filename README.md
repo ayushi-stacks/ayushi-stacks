@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm a passionate developer, currently focusing on 
 ##### 🤖 Working with Machine learning libraries (such as Scikit-learn, TensorFlow, Panda etc.) and Google Colab 
 
 ## 🔧 Technologies & Tools 
-##### Frontend: HTML, CSS, JavaScript, React
+##### Frontend: HTML, CSS, JavaScript, Typescript, React, NextJS
 ##### Version Control: Git, GitHub
-##### Languages : C++, Python
+##### Languages : C, C++
 
 ## 📫 How to reach me
 ##### Email: ayushiadrish@gmail.com
